@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2dd044-ac85-4998-b36c-a3b7445314b4" name="Default Changelist" comment="v1--能运行，但是准确率100percent">
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/remote-targets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/knn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Pair1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Combine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Pair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Reduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/classes/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../knn-v1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/remote-targets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knn2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result_little.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result_simplified.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +80,7 @@
       <workItem from="1654405646110" duration="16156000" />
       <workItem from="1654425836484" duration="8320000" />
       <workItem from="1654435639676" duration="4677000" />
+      <workItem from="1654497639607" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="BUG 修复">
       <created>1654427724723</created>

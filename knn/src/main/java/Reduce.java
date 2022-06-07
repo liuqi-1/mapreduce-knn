@@ -40,7 +40,7 @@ public class Reduce extends Reducer<Pair, Text,Text, Text> {
         /*将<dis,type>对放到treemap中进行排序*/
         for (Text pair : value) {
             String[] str = pair.toString().split(":");
-            treemap.add(new Pair1(Double.parseDouble(str[0]),str[1]));
+            treemap.add(new Pair1(Double.parseDouble(str[1]),str[2]));
         }
         /*取出前k个，统计type出现的次数*/
         int count=0;
