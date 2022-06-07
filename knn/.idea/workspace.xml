@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a2dd044-ac85-4998-b36c-a3b7445314b4" name="Default Changelist" comment="v1--能运行，但是准确率100percent">
+      <change beforePath="$PROJECT_DIR$/../knn-v1/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knn-v1/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +81,10 @@
       <workItem from="1654425836484" duration="8320000" />
       <workItem from="1654435639676" duration="4677000" />
       <workItem from="1654497639607" duration="1007000" />
+      <workItem from="1654566641007" duration="276000" />
+      <workItem from="1654566971155" duration="11000" />
+      <workItem from="1654589877412" duration="689000" />
+      <workItem from="1654599042877" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="BUG 修复">
       <created>1654427724723</created>

@@ -31,7 +31,7 @@ public class Main {
             FileInputFormat.addInputPath((JobConf) job.getConfiguration(), new Path(otherArgs[0]));
             FileOutputFormat.setOutputPath((JobConf) job.getConfiguration(), new Path(otherArgs[1]));
             /*设置分布式缓存文件*/
-            job.addCacheFile(new Path("hdfs://127.0.0.1:9000/knn/trainData/star_classification-sample-1000.csv").toUri());
+            job.addCacheFile(new Path("hdfs://127.0.0.1:9000/knn/trainData/star_classification_usability.csv").toUri());
             /*开始job*/
             System.exit(job.waitForCompletion(true) ? 0 : 1);
         }catch (Exception e){
